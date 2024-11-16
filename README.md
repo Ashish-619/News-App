@@ -20,5 +20,5 @@ A responsive web app to explore real-time news across categories like Business, 
 
 Simple, dynamic, and built for a great reading experience! 🚀  
 
-Live Demo
+##Live Demo
 [screen-capture (39).webm](https://github.com/user-attachments/assets/dd6efd11-7838-44ce-9da3-7a0b751e1167)
